@@ -5,10 +5,10 @@ const LoginPage = () => {
 
 return (
         <PageTemplate 
-        title="Please Log in to view Movies" 
-        heading="Hello And Welcome"
-        content="To this TMDB client Please sign in using Auth0 to continue. Once signed in you 
-        can then navigate to the home page."/>
+        title="To see the movies, you must first sign in." 
+        heading="Welcome"
+        
+        content="To continue, please log in with Auth0 to this TMDB client. After you've logged in, you can go to the home page."/>
 );
 };
 

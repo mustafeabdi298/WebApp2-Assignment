@@ -20,7 +20,7 @@ const LogoutButton = () => {
 
     return(
         <Button className={classes.root} onClick={() => logout()}> 
-         Log Out
+         Sign Out
         </Button>
     )
 

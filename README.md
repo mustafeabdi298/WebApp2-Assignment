@@ -9,11 +9,9 @@ Name: [Mustafe Abdi]
 ### Features.
 [ A bullet-point list of the __new features__ you added to the Movies Fan app (and any modifications to existing features) .]
  
-+ Feature 1
-+ Feature 2
-+ Feature 3
-+ etc
-+ etc
++ Upcoming Page adding movies from Home page
++ Watchlist Page adding movies from Upcoming page
++ User can add movies from home page to Favorites page
 
 ## Setup requirements.
 

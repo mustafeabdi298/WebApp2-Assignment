@@ -8,7 +8,7 @@ const LoginButton = () => {
 
     const useStyles = makeStyles({
         div: {
-            backgroundColor:"Red",
+            backgroundColor:"green",
             height:"50px",
             width:"200px",
             justifyContent:"center",
@@ -29,7 +29,7 @@ const LoginButton = () => {
     return(
         <div className={classes.div}>
         <Button className={classes.Button} onClick={() => loginWithPopup()}> 
-         Log In
+         Sign In
         </Button>
         </div>
     )
