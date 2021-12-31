@@ -59,3 +59,4 @@ e.g.
 ## Independent learning (If relevant).
 
 [ Itemize the technologies/techniques you researched independently and adopted in your project, i.e. aspects not covered in the lectures/labs. Include the source code filenames that illustrate these (we do not require code excerpts) and provide references to the online resources that helped you (articles/blogs).
+
