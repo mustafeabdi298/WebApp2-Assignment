@@ -1,10 +1,10 @@
 # Assignment 1 - ReactJS app.
 
-Name: [Mustafe Abdi]
+Name: (Mustafe Abdi)
 
 ## Overview.
 
-[A brief statement on the content of this repository.]
+In this Repository you'll find a Web application that uses the TMDB (The Moives Data Base ) API where you can browse different movies by different catagories e.g Now Playing or Top Rated. The movies can be filtered based on genre and can be chosen as a favourite where it will be listed in the favourite tab.
 
 ### Features.
 [ A bullet-point list of the __new features__ you added to the Movies Fan app (and any modifications to existing features) .]
