@@ -67,15 +67,11 @@ Credits Page - displays a list of the actors in the movie
 
 ### Routing.
 
-[ List the __new routes__ supported by your app and state the associated page.]
++ Route path: /login
++ PrivateRoute path: /movies/popular
++ PrivateRoute path: /movies/topRated 
++ PrivateRoute path: /movies/nowplaying
 
-+ /blogs - displays all published blogs.
-+ /blogs/:id - displays a particular blog.
-+ /blogs/:id/comments - detail view of a particular blog and its comments.
-+ etc.
-
-[If relevant, state what aspects of your app are protected (i.e. require authentication) and what is public.]
 
 ## Independent learning (If relevant).
-
-[ Itemize the technologies/techniques you researched independently and adopted in your project, i.e. aspects not covered in the lectures/labs. Include the source code filenames that illustrate these (we do not require code excerpts) and provide references to the online resources that helped you (articles/blogs).
++ User Login with Auth0 :https://auth0.com/docs/quickstart/spa/react/01-login 
